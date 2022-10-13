@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by: Mohammed al-essawi
+# Created by: Huzaifa Khalid
 # Created on: June 2022
 # This program is the "Space Aliens" program on the PyBadge
 
